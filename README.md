@@ -33,4 +33,17 @@ Desenvolvedor na **Sicoob Credimepi** | Estudante de Sistemas de Informação na
 
 ---
 
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/gabriel-c%C3%A2ndido-523099206" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="48" />
+  </a>
+  <a href="mailto:gabrielrobertocandido@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" />
+  </a>
+</p>
+
+---
+
 <sub>Última atualização: agosto de 2026</sub>
