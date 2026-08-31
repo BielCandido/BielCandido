@@ -2,8 +2,6 @@
 
 Desenvolvedor na **Sicoob Credimepi** | Estudante de Sistemas de Informação na **UFOP**
 
-[GitHub](https://github.com/BielCandido)
-
 ---
 
 ## Sobre
@@ -30,7 +28,6 @@ Desenvolvedor na **Sicoob Credimepi** | Estudante de Sistemas de Informação na
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BielCandido&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BielCandido&hide_border=true&theme=tokyonight" alt="GitHub streak" height="165" />
 </p>
 
